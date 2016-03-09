@@ -11,8 +11,8 @@ title: Yoursun.log()
 email: ys10330@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Positive kate. I can complain always.. I mean always....
-baseurl: "/herblog" # the subpath of your site, e.g. /blog
-url: "http://yoursun.me" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://herblog.yoursun.me" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
