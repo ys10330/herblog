@@ -1,0 +1,28 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+name: Yoursun.me
+title: Yoursun.log()
+email: ys10330@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Positive kate. I can complain always.. I mean always....
+baseurl: "/herblog" # the subpath of your site, e.g. /blog
+url: "http://yoursun.me" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+
+gems: ['jekyll-paginate']
+paginate: 3
+
+disqus: 'yoursunme'
+comments: true
+
+gaaccount: 'UA-73310674-1'
